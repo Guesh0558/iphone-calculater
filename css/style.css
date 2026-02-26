@@ -71,7 +71,7 @@ body {
 
 /* Styles for operator buttons like +, -, ×, ÷, and = */
 .button.operator {
-  background: #f1a33c; /* Orange background for operators */
+  background: #e4d6c3; /* Orange background for operators */
 }
 
 /* Special style for the 0 button (double width) */
