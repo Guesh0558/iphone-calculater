@@ -71,7 +71,8 @@ body {
 
 /* Styles for operator buttons like +, -, ×, ÷, and = */
 .button.operator {
-  background: #e4d6c3; /* Orange background for operators */
+  background: #ee3333; /* i changed it from orange 
+  Orange background for operators */
 }
 
 /* Special style for the 0 button (double width) */
@@ -93,7 +94,7 @@ body {
 .bottom {
   width: 200px; /* Width of the bottom bar */
   height: 5px; /* Height of the bottom bar */
-  background: white; /* White color for visibility */
+  background: #f7cfcf; /* i just changed it from white colorWhite color for visibility */
   border-radius: 4px; /* Rounded edges */
   position: absolute; /* Positioned relative to the calculator */
   bottom: 10px; /* Positioned slightly above the bottom */
